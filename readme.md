@@ -36,7 +36,7 @@ Si quieres echar un vistazo al proyecto, te recomiendo:
 
 **Daniel Jiménez**
 
-- [djimenezweb@gmail.com](djimenezweb@gmail.com)
+- <a href="mailto:djimenezweb@gmail.com">djimenezweb@gmail.com</a>
 - [LinkedIn](https://www.linkedin.com/in/djimenezweb)
 - [Porfolio web](https://tu-dominio.com/)
 
