@@ -1,6 +1,6 @@
-# Loopstudios
+# Blogr
 
-![Imagen del proyecto](https://github.com/djimenezweb/blog/blob/main/design/preview-desktop.jpg?raw=true)
+![Imagen del proyecto](https://github.com/djimenezweb/blogr/blob/main/design/preview-desktop.jpg?raw=true)
 
 ## Ejemplo en vivo
 
